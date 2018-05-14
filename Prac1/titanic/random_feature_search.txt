@@ -1,0 +1,207 @@
+Iteration 0
+Best acc: 0
+Time passed: 0.0006337165832519531
+___________________
+Iteration 100
+Best acc: 0.8337078651685393
+Time passed: 23.9054696559906
+___________________
+Iteration 200
+Best acc: 0.8337078651685393
+Time passed: 47.31798577308655
+___________________
+Iteration 300
+Best acc: 0.8337078651685393
+Time passed: 70.28307032585144
+___________________
+Iteration 400
+Best acc: 0.8337078651685393
+Time passed: 92.54131436347961
+___________________
+Iteration 500
+Best acc: 0.8337078651685393
+Time passed: 115.07750868797302
+___________________
+Iteration 600
+Best acc: 0.8337078651685393
+Time passed: 138.0529327392578
+___________________
+Iteration 700
+Best acc: 0.8337078651685393
+Time passed: 160.90311861038208
+___________________
+Iteration 800
+Best acc: 0.8337078651685393
+Time passed: 182.59169340133667
+___________________
+Iteration 900
+Best acc: 0.8337078651685393
+Time passed: 205.41076231002808
+___________________
+Iteration 1000
+Best acc: 0.8337078651685393
+Time passed: 228.32173943519592
+___________________
+Iteration 1100
+Best acc: 0.8337078651685393
+Time passed: 251.176344871521
+___________________
+Iteration 1200
+Best acc: 0.8337078651685393
+Time passed: 274.65954518318176
+___________________
+Iteration 1300
+Best acc: 0.8337078651685393
+Time passed: 296.3961138725281
+___________________
+Iteration 1400
+Best acc: 0.8337078651685393
+Time passed: 319.2333650588989
+___________________
+Iteration 1500
+Best acc: 0.8337078651685393
+Time passed: 340.32323145866394
+___________________
+Iteration 1600
+Best acc: 0.8337078651685393
+Time passed: 363.3868772983551
+___________________
+Iteration 1700
+Best acc: 0.8337078651685393
+Time passed: 386.2464909553528
+___________________
+Iteration 1800
+Best acc: 0.8337078651685393
+Time passed: 409.6313724517822
+___________________
+Iteration 1900
+Best acc: 0.8337078651685393
+Time passed: 434.7736256122589
+___________________
+Iteration 2000
+Best acc: 0.8337078651685393
+Time passed: 459.1364834308624
+___________________
+Iteration 2100
+Best acc: 0.8337078651685393
+Time passed: 481.8195502758026
+___________________
+Iteration 2200
+Best acc: 0.8337078651685393
+Time passed: 505.9774179458618
+___________________
+Iteration 2300
+Best acc: 0.8337078651685393
+Time passed: 531.6566202640533
+___________________
+Iteration 2400
+Best acc: 0.8337078651685393
+Time passed: 557.1079983711243
+___________________
+Iteration 2500
+Best acc: 0.8337078651685393
+Time passed: 581.5491144657135
+___________________
+Iteration 2600
+Best acc: 0.8337078651685393
+Time passed: 605.3379812240601
+___________________
+Iteration 2700
+Best acc: 0.8337078651685393
+Time passed: 629.7952353954315
+___________________
+Iteration 2800
+Best acc: 0.8348314606741573
+Time passed: 654.3750607967377
+___________________
+Iteration 2900
+Best acc: 0.8348314606741573
+Time passed: 678.0285892486572
+___________________
+Iteration 3000
+Best acc: 0.8348314606741573
+Time passed: 700.0033328533173
+___________________
+Iteration 3100
+Best acc: 0.8348314606741573
+Time passed: 724.6781735420227
+___________________
+Iteration 3200
+Best acc: 0.8348314606741573
+Time passed: 748.882241487503
+___________________
+Iteration 3300
+Best acc: 0.8348314606741573
+Time passed: 773.5442135334015
+___________________
+Iteration 3400
+Best acc: 0.8348314606741573
+Time passed: 797.7396717071533
+___________________
+Iteration 3500
+Best acc: 0.8348314606741573
+Time passed: 820.8092312812805
+___________________
+Iteration 3600
+Best acc: 0.8348314606741573
+Time passed: 845.3585288524628
+___________________
+Iteration 3700
+Best acc: 0.8348314606741573
+Time passed: 868.9743204116821
+___________________
+Iteration 3800
+Best acc: 0.8348314606741573
+Time passed: 892.2439315319061
+___________________
+Iteration 3900
+Best acc: 0.8348314606741573
+Time passed: 915.3332412242889
+___________________
+Iteration 4000
+Best acc: 0.8348314606741573
+Time passed: 938.8203301429749
+___________________
+Iteration 4100
+Best acc: 0.8348314606741573
+Time passed: 961.5553689002991
+___________________
+Iteration 4200
+Best acc: 0.8348314606741573
+Time passed: 983.9555568695068
+___________________
+Iteration 4300
+Best acc: 0.8348314606741573
+Time passed: 1007.1474785804749
+___________________
+Iteration 4400
+Best acc: 0.8348314606741573
+Time passed: 1030.026038646698
+___________________
+Iteration 4500
+Best acc: 0.8348314606741573
+Time passed: 1054.2916600704193
+___________________
+Iteration 4600
+Best acc: 0.8348314606741573
+Time passed: 1075.924605846405
+___________________
+Iteration 4700
+Best acc: 0.8348314606741573
+Time passed: 1099.4210410118103
+___________________
+Iteration 4800
+Best acc: 0.8348314606741573
+Time passed: 1121.832326412201
+___________________
+Iteration 4900
+Best acc: 0.8348314606741573
+Time passed: 1145.2890520095825
+________
+Finding best combination took 1169.3721516132355 seconds
+0.8348314606741573
+['Pclass_3' 'Sex_female' 'Fare' 'Age' 'Sex_male' 'Title_ Miss' 'Fam'
+ 'Title_ Mrs' 'Title_ Mr' 'SibSp' 'Pclass_1' 'Cabin_C' 'Cabin_-' 'Cabin_A'
+ 'Cabin_E' 'Cabin_D' 'Pclass_2' 'Parch' 'Cabin_B' 'Title_ Major'
+ 'Title_ Master' 'Title_ Capt' 'Title_ Rev' 'Cabin_G' 'Title_ Dr'
+ 'Cabin_F' 'Title_ Sir']
